@@ -1,22 +1,22 @@
                             
                             
                                 h1 {
+                                	margin:auto;
 					text-align:center;
 					font-size:40px;
 				}
 
 				.container {
-					width:50%;
-					min-width:600px;
-					margin-bottom:50px;
+					width:70%;					
 					font-family: Garamond;
 					color:#708090;
+					margin:auto;
 					}
 
 				img {
 					display:block;
 					margin:auto;
-					width:50%;
+					width:30%;
 				}
                                 
                                 h3 {
@@ -24,7 +24,7 @@
                                 	font-size:28px;
                                 }
 			        
-			        para , p {
+			        p ,a {
 			        	text-align:justify;
 			        	font-size:20px;
 			        }
@@ -33,5 +33,4 @@
 			        	text-align:justify;
 			        	font-size:32px;
 			        }
-			        
-			        
+			       
