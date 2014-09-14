@@ -1,16 +1,16 @@
                             
                             
-                            h1 {
+                                h1 {
 					text-align:center;
-					color:PaleVoiletRed;
-					font-family: Lucida Console;
+					
 				}
 
 				.container {
 					width:50%;
 					min-width:600px;
 					margin-bottom:50px;
-					font-family: Lucida Console;
+					font-family: Garamond;
+					color:#DB7093;
 				}
 
 				img {
@@ -18,13 +18,11 @@
 					margin:auto;
 					width:50%;
 				}
-
-			        h3 {
-			                text-align:justify;
-			                color:PaleVoiletRed;
-			        }
+                                
+                                h3 {
+                                	text-align:justify;
+                                }
 			        
 			        para {
 			        	text-align:justify;
-			        	color:PaleVoiletRed;
 			        }
