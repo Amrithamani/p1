@@ -2,13 +2,15 @@
                             
                             h1 {
 					text-align:center;
-					color:SlateBlue;
+					color:PaleVoiletRed;
+					font-family: Lucida Console;
 				}
 
 				.container {
 					width:50%;
 					min-width:600px;
 					margin-bottom:50px;
+					font-family: Lucida Console;
 				}
 
 				img {
@@ -18,6 +20,11 @@
 				}
 
 			        h3 {
-			               text-align:center;
-			               color:SlateBlue;
+			                text-align:justify;
+			                color:PaleVoiletRed;
+			        }
+			        
+			        para {
+			        	text-align:justify;
+			        	color:PaleVoiletRed;
 			        }

@@ -20,16 +20,16 @@
     		<img src=>
 
     		<h3>Project 2 Title</h3>
-    		View: [link]
-    		Github: [link]
+    		<para>View: [link]</para>
+    		<para>Github: [link]</para>
 
     		<h3>Project 3 Title</h3>
-     		View: [link]
-    		Github: [link]
+     		<para>View: [link]</para>
+    		<para>Github: [link]</para>
 
     		<h3>Project 4 Title</h3>
-    		View: [link]
-    		Github: [link]
+    		<para>View: [link]</para>
+    		<para>Github: [link]</para>
 
 
 </div>
