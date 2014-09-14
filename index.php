@@ -7,25 +7,7 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<style>
-
-			h1 {
-				text-align:center;
-			}
-
-			.container {
-				width:50%;
-				min-width:600px;
-				margin-bottom:50px;
-			}
-
-			img {
-				display:block;
-				margin:auto;
-				width:50%;
-			}
-
-		</style>
+   <link type="text/css" rel="stylesheet" href="mystyle.css"/>
 
 </head>
 <body>
