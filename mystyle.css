@@ -11,8 +11,7 @@
 					margin-bottom:50px;
 					font-family: Garamond;
 					color:#708090;
-					font-size:28px;
-				}
+					}
 
 				img {
 					display:block;
@@ -22,8 +21,17 @@
                                 
                                 h3 {
                                 	text-align:justify;
+                                	font-size:28px;
                                 }
 			        
-			        para {
+			        para , p {
 			        	text-align:justify;
+			        	font-size:20px;
 			        }
+			        
+			        h2 {
+			        	text-align:justify;
+			        	font-size:32px;
+			        }
+			        
+			        
