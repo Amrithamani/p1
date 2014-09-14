@@ -2,7 +2,7 @@
                             
                                 h1 {
 					text-align:center;
-					
+					font-size:40px;
 				}
 
 				.container {
@@ -10,7 +10,8 @@
 					min-width:600px;
 					margin-bottom:50px;
 					font-family: Garamond;
-					color:#DB7093;
+					color:#708090;
+					font-size:28px;
 				}
 
 				img {
@@ -20,9 +21,9 @@
 				}
                                 
                                 h3 {
-                                	text-align:justify;
+                                	text-align:center;
                                 }
 			        
 			        para {
-			        	text-align:justify;
+			        	text-align:center;
 			        }
