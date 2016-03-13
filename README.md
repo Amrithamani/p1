@@ -2,7 +2,7 @@
 ----------------------------
 
 ## Live URL
-<http://p1.amrithamani.me>
+<http://p1.amrithamani.com>
 
 ## Description
 A single page website using HTML and CSS.
